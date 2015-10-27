@@ -1,0 +1,26 @@
+﻿Build started 13/05/2015 9:44:39 AM.
+     1>Project "\\apollo\uprofiles\gheriba\documents\visual studio 2010\Projects\random_gen\random_gen\random_gen.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\random_gen.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.DirectoryServices.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt MainForm.cpp /clr:nostdlib 
+         MainForm.cpp
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\apollo\uprofiles\gheriba\documents\visual studio 2010\Projects\random_gen\Debug\random_gen.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\random_gen.MainForm.resources /MANIFEST /ManifestFile:"Debug\random_gen.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"\\apollo\uprofiles\gheriba\documents\visual studio 2010\Projects\random_gen\Debug\random_gen.pdb" /ASSEMBLYDEBUG /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MainForm.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         random_gen.vcxproj -> \\apollo\uprofiles\gheriba\documents\visual studio 2010\Projects\random_gen\Debug\random_gen.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"\\apollo\uprofiles\gheriba\documents\visual studio 2010\Projects\random_gen\Debug\random_gen.exe;#1" /manifest Debug\random_gen.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\random_gen.unsuccessfulbuild".
+         Touching "Debug\random_gen.lastbuildstate".
+     1>Done Building Project "\\apollo\uprofiles\gheriba\documents\visual studio 2010\Projects\random_gen\random_gen\random_gen.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:30.08
